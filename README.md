@@ -3,16 +3,16 @@
 <h3 align="center"> Pls, take a look in what I'm doing </h3>
 
 <div align="center">
-<a href="https://github.com/RodolfoMRibeiro/" target="_blank">
+<a href="https://github.com/R-o-d-r-i-g-o" target="_blank">
   <img align="center" src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white style="margin-bottom: 5px;" /> 
 </a>
-<a href="https://www.linkedin.com/in/rodrigomarquesribeiro/" target="_blank">
+<a href="https://www.linkedin.com/in/rodrigo-marques-ribeiro-98746b217/" target="_blank">
   <img align="center" src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white style="margin-bottom: 5px;" /> 
 </a>
-<a href="https://discord.gg/wagxzStdcR" target="_blank">
+<a href="" target="_blank">
   <img align="center" src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white style="margin-bottom: 5px;" target="_blank">
 </a> 
-<a href = "mailto:contatorafaballerini@gmail.com">
+<a href = "mailto:rodrigomarqribeiro@gmail.com">
   <img align="center" src=https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white style="margin-bottom: 5px;" target="_blank">
 </a>
 
