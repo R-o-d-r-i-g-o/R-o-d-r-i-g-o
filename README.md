@@ -13,7 +13,7 @@
   <img align="center" src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white style="margin-bottom: 5px;" target="_blank">
 </a> 
 <a href = "mailto:rodrigomarqribeiro@gmail.com">
-  <img align="center" src=https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white style="margin-bottom: 5px;" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="margin-bottom: 5px;" target="_blank">
 </a>
 
 </div> <br>
