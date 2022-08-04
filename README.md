@@ -43,7 +43,7 @@
 - 👯 I’m looking to collaborate on `open sorce projects` <br> 
 - 📍 Actually livin' in `Franca-SP` <br>
 - 😄 Pronouns: `he / him` <br>
-- ⚡ Fun fact: `U're now counted in visitors` <br> <br>
+- ⚡ Fun fact: `U're now counted as a visitor` <br> <br>
 
 ✨ **Thanks for visiting me** ✨
 
