@@ -56,7 +56,19 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-o-d-r-i-g-o&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<div align="center" style="display: inline_block" > <br>
+
+<p align="center">
+  <a href="https://github.com/R-o-d-r-i-g-o">
+    <img
+      align="center"
+      src="https://github-profile-trophy.vercel.app/?username=R-o-d-r-i-g-o&theme=tokyonight&no-frame=true&row=1&&margin-w=20&no-bg=true"
+    />
+  </a>
+  </a>
+</p>
+
+
+<div align="center" style="display: inline_block" >
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
