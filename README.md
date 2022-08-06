@@ -1,3 +1,6 @@
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
 <h1 align="center"> 🚀 Welcome to my Profile 🚀 </h1>
 
 <h3 align="center"> Pls, feel free to check a little more of me in medias below </h3>
@@ -51,8 +54,11 @@
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
 
+                   
+
   <a href="https://github.com/R-o-d-r-i-g-o">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=R-o-d-r-i-g-o&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-o-d-r-i-g-o&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
@@ -86,5 +92,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+                                                                                                                
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+                                                                                                                                                          
+![](https://github-readme-streak-stats.herokuapp.com/?user=R-o-d-r-i-g-o&theme=tokyonight&hide_border=false)
 
-</div>  
+</div>                                        
