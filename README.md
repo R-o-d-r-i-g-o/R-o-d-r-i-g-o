@@ -31,7 +31,7 @@ src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc54213
 
 - 🔭 I’m currently working on `Q2pay`
 <br /> <br /> 
-- 📍 Actually livin' in `Franca-SP`
+- 📍 Actually livin' in `Franca-SP (Brazil)`
 <br /> <br />
 - 😄 Pronouns: `he / him`
 <br /> <br />
