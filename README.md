@@ -29,17 +29,16 @@ src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc54213
  />
 </h1> 
 
-<p align="left">
-  - 🔭 I’m currently working on `Q2pay`
-  <br /> <br /> 
-  - 📍 Actually livin' in `Franca-SP`
-  <br /> <br />
-  - 😄 Pronouns: `he / him`
-  <br /> <br />
-  - ⚡ Fun fact: `U're now counted as a visitor`
-  <br /> <br />
-  ✨ **Thanks for visiting me** ✨
-</p>
+- 🔭 I’m currently working on `Q2pay`
+<br /> <br /> 
+- 📍 Actually livin' in `Franca-SP`
+<br /> <br />
+- 😄 Pronouns: `he / him`
+<br /> <br />
+- ⚡ Fun fact: `U're now counted as a visitor`
+<br /> <br />
+✨ **Thanks for visiting me** ✨
+
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
