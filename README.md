@@ -3,13 +3,13 @@
 <br />
 
 <div align="center">
-  <a href="https://github.com/R-o-d-r-i-g-o" target="_blank">
+  <a href="https://github.com/R-o-d-r-i-g-o">
     <img align="center" src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white style="margin-bottom: 5px;" /> 
   </a>
-  <a href="https://www.linkedin.com/in/rodrigo-marques-ribeiro-98746b217/" target="_blank">
+  <a href="https://www.linkedin.com/in/rodrigo-marques-ribeiro/">
     <img align="center" src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white style="margin-bottom: 5px;" /> 
   </a>
-  <a href = "mailto:rodrigomarqribeiro@gmail.com">
+  <a href="mailto:rodrigomarqribeiro@gmail.com">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="margin-bottom: 5px;" target="_blank" />
   </a>
 
