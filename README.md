@@ -14,7 +14,7 @@
   </a>
 
   <br /><br />
-  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=R-o-d-r-i-g-o&left_color=green&right_color=red)
+  ![Visitors](https://visitor_badge.deta.dev/?id=RodolfoMRibeiro)
 </div>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
