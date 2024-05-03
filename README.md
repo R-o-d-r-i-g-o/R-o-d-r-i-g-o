@@ -12,30 +12,15 @@
   <a href="mailto:rodrigomarqribeiro@gmail.com">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="margin-bottom: 5px;" target="_blank" />
   </a>
-
-  <br /><br />
-  ![Visitors](https://visitor_badge.deta.dev/?id=R-o-d-r-i-g-o)
 </div>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-<h1> 
- R-o-d-r-i-g-o 
- <img 
-src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"
-  width="30px"
-  data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-  style="max-width: 100%;"
- />
-</h1> 
+## R-o-d-r-i-g-o (he/him)
 
 - 🔭 I’m currently working on `Q2pay`
 <br /> <br /> 
 - 📍 Actually livin' in `Franca-SP (Brazil)`
-<br /> <br />
-- 😄 Pronouns: `he / him`
-<br /> <br />
-- ⚡ Fun fact: `U're now counted as a visitor`
 <br /> <br />
 ✨ **Thanks for visiting me** ✨
 
@@ -72,8 +57,6 @@ src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc54213
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  <br /><br />
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
   <br /><br />
   ![](https://github-readme-streak-stats.herokuapp.com/?user=R-o-d-r-i-g-o&theme=tokyonight&hide_border=false)
