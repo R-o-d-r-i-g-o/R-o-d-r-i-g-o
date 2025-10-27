@@ -76,5 +76,10 @@
 </p>
 
 <p align="center">
+  <br/><br/>
+  Made with ❤️ by <a href="https://github.com/R-o-d-r-i-g-o" target="_blank">me</a>.
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F5FF&height=100&section=footer"/>
 </p>
