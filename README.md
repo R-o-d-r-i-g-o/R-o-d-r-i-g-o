@@ -25,10 +25,10 @@
 ### 👋 Hey there, I’m Rodrigo (he/him)
 
 - 💼 Currently building solutions at **LuizaLabs**  
-- 🧠 Passionate about **Go**, **C#**, **React**, and **scalable, distributed systems**  
+- 🧠 Passionate about **Go**, **Node**, **React**, and **distributed systems**  
 - 🧩 Experienced with **high-performance, fault-tolerant architectures**  
 - 🌍 Based in **São Paulo - SP, Brazil**  
-- ⚙️ Always exploring **cloud, DevOps, and modern backend stacks**
+- ⚙️ Always exploring **Cloud, DevOps, and modern backend stacks**
 
 ✨ *Thanks for stopping by!* ✨  
 
