@@ -4,6 +4,11 @@
   <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
+<div align="center">
+   <br/><br/>
+   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FR-o-d-r-i-g-o&label=VISITORS&theme=tokyonight" width="120" alt="Visitors Badge"/>
+</div>
+
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="300" align="right"/>
 
 ### 👋 Hey there, I’m Rodrigo (he/him)
@@ -50,7 +55,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=R-o-d-r-i-g-o&theme=tokyonight&no-frame=true&row=1&no-bg=true" />
+  <img align="center" src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=R-o-d-r-i-g-o&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 </p>
 
 <div align="center">
