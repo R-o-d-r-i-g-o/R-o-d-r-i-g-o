@@ -16,7 +16,9 @@
   </a>
 </p>
 
----
+<div align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="300" align="right"/>
 
@@ -30,7 +32,9 @@
 
 ✨ *Thanks for stopping by!* ✨  
 
----
+<div align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 ### 🧰 Tech Stack
 
@@ -38,7 +42,9 @@
   <img src="https://skillicons.dev/icons?i=go,cs,react,typescript,javascript,docker,linux,git,postgres,mysql,python,aws&theme=dark" />
 </p>
 
----
+<div align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 ### ⚙️ GitHub Analytics
 
@@ -55,37 +61,28 @@
   <img src="https://github-profile-trophy.vercel.app/?username=R-o-d-r-i-g-o&theme=tokyonight&no-frame=true&row=1&no-bg=true" />
 </p>
 
----
+<div align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 ### 💬 Quote of the Day
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
----
+<div align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 ### 🐍 Commit Snake Animation
 <p align="center">
   <img src="https://raw.githubusercontent.com/R-o-d-r-i-g-o/R-o-d-r-i-g-o/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
----
+<div align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F5FF&height=100&section=footer"/>
 </p>
-
-
-<!-- Contribution snake -->
-<p align="center">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/R-o-d-r-i-g-o/R-o-d-r-i-g-o/output/github-contribution-grid-snake.svg" />
-</p>
-
-
-
-
-
-
-
-
-
