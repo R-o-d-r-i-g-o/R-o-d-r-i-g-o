@@ -20,6 +20,14 @@
   <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=High-Performance+Backend+Systems;Scalable;Fault-Tolerant+Architectures" alt="Typing SVG 2" />
+</div>
+
+<div align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
 ### 🧰 Tech Stack
 
 <p align="center">
