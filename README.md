@@ -1,22 +1,6 @@
-<h1 align="center">
+<div align="center">
   <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=550&lines=🚀+Welcome+to+my+Profile!;💻+Backend+Engineer;🌎+Software+Engineer" alt="Typing SVG" />
-  <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</h1>
-
-<p align="center">
-  <a href="https://github.com/R-o-d-r-i-g-o">
-    <img src="https://img.shields.io/badge/GitHub-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rodrigo-marques-ribeiro/">
-    <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:rodrigomarqribeiro@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<div align="center">
   <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
@@ -74,14 +58,22 @@
   <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-### 🐍 Commit Snake Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/R-o-d-r-i-g-o/R-o-d-r-i-g-o/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+### 📬 Get in Touch
 
-<div align="center">
-  <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+<p align="center">
+  <a href="https://github.com/R-o-d-r-i-g-o" target="_blank">
+    <img src="https://img.icons8.com/fluency/96/github.png" width="60" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/rodrigo-marques-ribeiro/" target="_blank">
+    <img src="https://img.icons8.com/fluency/96/linkedin.png" width="60" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/rodrigomarqribeiro/" target="_blank">
+    <img src="https://img.icons8.com/fluency/96/instagram-new.png" width="60" alt="Instagram" />
+  </a>
+  <a href="mailto:rodrigomarqribeiro@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="60" alt="Gmail" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F5FF&height=100&section=footer"/>
