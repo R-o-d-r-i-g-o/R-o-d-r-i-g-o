@@ -18,7 +18,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="390" align="right"/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="300" align="right"/>
 
 ### 👋 Hey there, I’m Rodrigo (he/him)
 
@@ -75,6 +75,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F5FF&height=100&section=footer"/>
 </p>
 
+
+<!-- Contribution snake -->
+<p align="center">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/R-o-d-r-i-g-o/R-o-d-r-i-g-o/output/github-contribution-grid-snake.svg" />
+</p>
 
 
 
