@@ -36,7 +36,7 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,cs,react,typescript,javascript,docker,linux,git,postgres,mysql,python,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,java,kotlin,cs,react,typescript,javascript,docker,linux,git,postgres,mysql,python,aws&theme=dark" />
 </p>
 
 <div align="center">
