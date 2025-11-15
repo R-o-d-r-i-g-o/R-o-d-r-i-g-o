@@ -35,8 +35,34 @@
 
 ### 🧰 Tech Stack
 
+#### 🌐 languages & frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,java,kotlin,cs,react,typescript,javascript,docker,linux,git,postgres,mysql,python,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,java,kotlin,cs,react,html,typescript,javascript,nodejs,python,vite&theme=dark" />
+</p>
+
+#### 🏗️ infrastructure & devops
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=terraform,docker,k8s,jenkins,linux,git,github,gitlab,aws,gcp,azure&theme=dark" />
+</p>
+
+#### 📁 databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,oracle,sqlite,mongodb,redis,firebase,dynamodb&theme=dark" />
+</p>
+
+#### 📩 messaging & streaming
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rabbitmq,kafka&theme=dark" />
+</p>
+
+#### 📊 observability
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus&theme=dark" />
+</p>
+
+#### 📚 documentation
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=markdown&theme=dark" /
 </p>
 
 <div align="center">
